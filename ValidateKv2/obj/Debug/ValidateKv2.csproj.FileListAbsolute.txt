@@ -1,0 +1,11 @@
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\ValidateKv2.exe.config
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\ValidateKv2.exe
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\ValidateKv2.pdb
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\Microsoft.Kinect.dll
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\Microsoft.Kinect.xml
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\obj\Debug\ValidateKv2.csprojResolveAssemblyReference.cache
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\obj\Debug\ValidateKv2.exe
+c:\users\zhdy7\documents\visual studio 2013\Projects\ValidateKv2\ValidateKv2\obj\Debug\ValidateKv2.pdb
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\GestureBuilderCommon.dll
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\KinectManaged.dll
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ValidateKv2\ValidateKv2\bin\Debug\KSSManaged.dll

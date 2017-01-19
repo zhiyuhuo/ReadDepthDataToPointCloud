@@ -1,0 +1,11 @@
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\ValidateKv2.exe.config
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\ValidateKv2.exe
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\ValidateKv2.pdb
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\GestureBuilderCommon.dll
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\KinectManaged.dll
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\KSSManaged.dll
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\obj\x64\Debug\ReadDepthDataToPointCloud.csprojResolveAssemblyReference.cache
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\obj\x64\Debug\ValidateKv2.exe
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\obj\x64\Debug\ValidateKv2.pdb
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\Microsoft.Kinect.dll
+C:\Users\zhdy7\Documents\Visual Studio 2013\Projects\ReadDepthDataToPointCloud\ValidateKv2\bin\x64\Debug\Microsoft.Kinect.xml
